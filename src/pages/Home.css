@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'WL Rasteroids Monospace Bold';
+    src: url('./images/D3Electronism.TTF') format('truetype');
+
+}
+body {
+    overflow-x: hidden;
+    background-color: black;
+  }
+.name {
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+    top: 23%;
+    left: 32%;
+}
+.popup {
+    position: absolute;
+    height: 34vh;
+}
+.text {
+    position: absolute;
+    text-align: center;
+    width: 290px;
+    font-size: 20px; 
+    left: 3.5vw;
+    top: 10vh;
+    font-family: 'WL Rasteroids Monospace Bold', monospace;
+    color: 'rgb(92, 92, 92)';
+    font-weight: lighter;
+}
+.homeContainer {
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    height: 89vh;
+    width: 85vw;
+    left: 50%;
+    transform: translate(-50%, 0%);
+  }
+  .outside {
+    position: absolute;
+    left: 64%;
+    top: 54%;
+    height: 60vh;
+    width: 80vh;
+  }
+  .clippy {
+    position: absolute;
+    left: 80%;
+    top: 60%;
+    height: 50vh;
+    cursor: pointer;
+  }
+  .cat {
+  }
+  .bottledog {
+    position: absolute;
+    top: 800px;
+    left: 0;
+  }
+  .dj {
+    position: absolute;
+    left: 68%;
+    height: 44vh;
+  }
+  .cigarette {
+    position: absolute;
+    height: 96.5vh;
+    top: 100%;
+    left: 39%;
+  }
+  .greendog {
+    position: absolute;
+    top: 98%;
+    left: 33%;
+    height: 25vh;
+    width: 40vh;
+  }
+  
