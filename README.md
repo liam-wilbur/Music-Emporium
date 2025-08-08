@@ -1,8 +1,8 @@
+# Live site: [`muemporium.com`](https://muemporium.com)
+
 ## Music Emporium
 
 A community emporium of ideas where anyone can share stream‑of‑consciousness experiences with music. Type an artist, an album, and your thoughts — the app fetches the album art and publishes your post to a live message board.
-
-# Live site: `https://muemporium.com`
 
 ---
 
